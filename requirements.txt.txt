@@ -1,0 +1,5 @@
+torch==1.11.0
+torchvition==0.12.0
+tifffile==2021.4.8
+hyperspy==1.7.3
+pandas==1.4.4
